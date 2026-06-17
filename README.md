@@ -1,4 +1,4 @@
-## VLM-empowered Multi-mode System for Efficient and Safe Planetary Navigation
+## Tube Model Predictive Control for Robust Autonomous Navigation of Planetary Rovers via Safe Reinforcement Learning
 
 ## Website
 
